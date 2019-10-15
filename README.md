@@ -1,6 +1,6 @@
 ## Project Overview
 
-In the present notebook, how to build and train a Generative Adversarial Network (GAN) for the purpose of face generation. What you will learn here is not restricted to the computer vision field: a GAN can learn to generate any sort of data, from time series to videos.
+In the present notebook, you will learn how to build and train a Generative Adversarial Network (GAN) for the purpose of face generation. What you will learn here is not restricted to the computer vision field: a GAN can learn to generate any sort of data, from time series to videos.
 <br />
 GANs have been invented by Iain Goodfellow in 2014 and in the past 5 years they have been applied to a wide variety of problems.
 
