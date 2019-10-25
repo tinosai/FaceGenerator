@@ -8,7 +8,7 @@ GANs have been invented by Iain Goodfellow in 2014 and in the past 5 years they 
 
 ### Instructions
 
-1. Clone the repository on your computer. For those who are not familiar with command line utilities, GitHub has developed this command line utility.
+1. Clone the repository on your computer. For those who are not familiar with command line utilities, GitHub has developed this utility which lets do pretty much everything you need through a GUI.
    [GitHub Desktop](https://desktop.github.com/)
 2. Open a terminal window and navigate to the project folder. Open the notebook and follow the instructions contained in the jupyter notebook.
 3. Do not forget to download the celebrity face dataset whose link is included in the jupyter notebook.
